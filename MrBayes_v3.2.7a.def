@@ -30,7 +30,7 @@ From: alpine:latest
 	&& rm -rf /tmp/mrbayes
 
 %labels
-	Author sghignone
+	author Stefano Ghignone
+	mainteiner sghignone
 	name MrBayes
 	version v3.2.7a
-	
