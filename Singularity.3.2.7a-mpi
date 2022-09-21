@@ -1,5 +1,5 @@
 Bootstrap: docker
-From: alpine:latest
+From: alpine:3.11
 
 %post
 	export MPICH_VERSION="3.2"
